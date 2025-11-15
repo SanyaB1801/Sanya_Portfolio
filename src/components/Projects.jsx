@@ -3,6 +3,19 @@
 const Projects = () => {
   const projects = [
     {
+      title: "SEO Intelligence Tool",
+      date: "Jul. 2025",
+      tech: ["Python", "Streamlit", "NLP", "KeyBERT", "spaCy", "Tesseract OCR", "Hugging Face"],
+      description:
+        "Built a full-stack app to extract SEO insights from articles and multiple file types using NLP and OCR.",
+      achievements: [
+        "Automated keyword extraction and meta generation, reducing manual SEO analysis time by 70%.",
+      ],
+      codeUrl: "https://github.com/SanyaB1801/SEO-Intelligence-Tool",
+      demoUrl: "https://huggingface.co/spaces/sanyab/SEO-Intelligence-Tool",
+      hasDemo: true,
+    },
+    {
       title: "StyleTune: DL-Based Fashion-to-Music Recommender",
       date: "Apr. 2025",
       tech: ["Python", "Streamlit", "Gemini", "PIL"],
