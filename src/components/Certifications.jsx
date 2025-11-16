@@ -18,7 +18,7 @@ const Certifications = () => {
       issuer: "IBM",
       icon: "🏆",
       certificateUrl:
-        "https://skills.yourlearning.ibm.com/certificate/share/c91f3d3c0bewogICJvYmplY3RJZCIgOiAiUExBTi0zQjczNDdFNkQzQzAiLAogICJsZWFybmVyQ05VTSIgOiAiNDcxMDExNVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp910d901fddb-10",
+        "https://www.linkedin.com/posts/sanya-behera_successfully-completing-the-ibm-skillsbuild-activity-7366881734895788032-VSqe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYVnEsBSarwof4zhhrX2axL2JP7BQrKZQo",
     },
     {
       title: "IBM SkillsBuild – Unleashing the Power of AI Agents",
@@ -27,7 +27,7 @@ const Certifications = () => {
       issuer: "IBM",
       icon: "🏆",
       certificateUrl:
-        "https://skills.yourlearning.ibm.com/certificate/share/53653eb5efewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI0NzEwMTE1UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNTQ1NiIKfQ7e055e55ca-10",
+        "https://www.linkedin.com/posts/sanya-behera_im-happy-to-share-that-ive-obtained-a-new-activity-7348643324703952896-Ef8W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYVnEsBSarwof4zhhrX2axL2JP7BQrKZQo",
     },
     {
       title: "ChatGPT Prompt Engineering for Developers",
@@ -58,7 +58,7 @@ const Certifications = () => {
     },
   ]
 
-  const openLink = (url) => {sz
+  const openLink = (url) => {
     window.open(url, "_blank", "noopener,noreferrer")
   }
 
