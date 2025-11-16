@@ -6,15 +6,15 @@ const Research = () => {
   }
 
   const researchItems = [
-    {
-      icon: "📚",
-      title: "Magnetocaloric Effect: Fundamentals, Materials and Applications",
-      presentedAt: "Presented at IC-AMSI 2024",
-      description:
-        "Presented a comprehensive review paper on the Magnetocaloric Effect with emphasis on refrigeration, power generation, and energy conversion applications. The research explores the fundamental principles, material properties, and practical implementations of magnetocaloric materials in various industrial applications.",
-      tags: ["Materials Science", "Energy Conversion", "Refrigeration Technology"],
-      paperUrl: "https://example.com/your-paper", // Replace with actual paper URL
-    },
+    // {
+    //   icon: "📚",
+    //   title: "Magnetocaloric Effect: Fundamentals, Materials and Applications",
+    //   presentedAt: "Presented at IC-AMSI 2024",
+    //   description:
+    //     "Presented a comprehensive review paper on the Magnetocaloric Effect with emphasis on refrigeration, power generation, and energy conversion applications. The research explores the fundamental principles, material properties, and practical implementations of magnetocaloric materials in various industrial applications.",
+    //   tags: ["Materials Science", "Energy Conversion", "Refrigeration Technology"],
+    //   paperUrl: "https://example.com/your-paper", // Replace with actual paper URL
+    // },
     {
       icon: "♿", // Icon for accessibility/wheelchair
       title:
@@ -23,7 +23,7 @@ const Research = () => {
       description:
         "This paper gave us the chance to explore how gesture recognition and solar energy can be combined to create more accessible and sustainable mobility solutions. The research focuses on developing an innovative wheelchair system that enhances independence for differently-abled individuals and amputees through intuitive gesture controls and eco-friendly solar power integration.",
       tags: ["Gesture Recognition", "Solar Energy", "Assistive Technology", "Mobility Solutions"],
-      paperUrl: "https://example.com/your-eaic-paper-url", // Placeholder for the new paper URL
+      paperUrl: "https://ieeexplore.ieee.org/document/11101393", // Placeholder for the new paper URL
     },
   ]
 
