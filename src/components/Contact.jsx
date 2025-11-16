@@ -42,7 +42,7 @@ const Contact = () => {
                 onClick={() => openLink("https://www.linkedin.com/in/sanya-behera")}
                 className="flex items-center gap-3 w-full text-left hover:text-violet-400 transition-colors"
               >
-                <svg className="w-4 h-4 text-violet-400 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                <svg className="w-6 h-6 text-violet-400 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.3[...]"/>
                 </svg>
                 <span className="text-gray-300">linkedin.com/in/sanya-behera</span>
@@ -66,7 +66,7 @@ const Contact = () => {
                     onClick={sendEmail}
                     className="bg-[#146b80] hover:bg-[#125f6b] text-white px-6 py-3 rounded-lg text-base font-semibold transition-all duration-300 flex items-center gap-3 shadow-md hover:shadow-lg"
                   >
-                    <span className="text-lg">✉️</span>
+                    <span className="text-xl">✉️</span>
                     Email Me
                   </button>
 
