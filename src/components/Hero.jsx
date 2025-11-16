@@ -118,7 +118,7 @@ const Hero = () => {
           <button
             onClick={() =>
               openLink(
-                'https://drive.google.com/file/d/1VUbSdJkSdXWYHp1Kek1SS6SQls_Y3S-j/view?usp=sharing'
+                'https://drive.google.com/file/d/1O3npYy5-8G6WGX2Hp_Ne0ehI61O6ISgl/view?usp=sharing'
               )
             }
             className="border-2 border-[#7cd3d3] text-[#374151] px-6 py-3 rounded-lg font-semibold transition-all hover:bg-[#7cd3d3] hover:text-white"
