@@ -3,6 +3,15 @@
 const Certifications = () => {
   const certifications = [
     {
+      title: "Pragati: Path to Future - Cohort 5",
+      description:
+        "Gained hands-on experience in Python, data science fundamentals, and collaborative software engineering practices.",
+      issuer: "Infosys Springboard",
+      icon: "🎓",
+      certificateUrl:
+        "https://www.linkedin.com/posts/sanya-behera_im-excited-to-share-that-ive-completed-activity-7374503328141062144-YpNv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYVnEsBSarwof4zhhrX2axL2JP7BQrKZQo",
+    },
+    {
       title: "IBM SkillsBuild – From Learner to Builder: Become an AI Agent Architect",
       description:
         "Developed expertise in designing, building, and deploying AI-driven systems, with a focus on advanced AI architecture and real-world applications.",
@@ -38,9 +47,18 @@ const Certifications = () => {
       certificateUrl:
         "https://badgr.com/public/assertions/YQxrWaj1TWS2ERMUEN_KLQ",
     },
+    {
+      title: "2025 Quantum Program",
+      description:
+        "Built strong foundations in quantum computing and applying advanced quantum algorithms to real-world problem-solving.",
+      issuer: "The Washington Institute for STEM, Entrepreneurship and Research",
+      icon: "🔎",
+      certificateUrl:
+        "https://www.virtualbadge.io/certificate-validator?credential=0ae59204-efea-4ca6-a2f4-4471abc3867d",
+    },
   ]
 
-  const openLink = (url) => {
+  const openLink = (url) => {sz
     window.open(url, "_blank", "noopener,noreferrer")
   }
 
