@@ -110,7 +110,8 @@ const Contact = () => {
             </div>
           </div>
         </div>
-
+        <br></br>
+        <br></br>
         <div className="text-center mt-12">
           <p className="text-gray-300 mb-4">
             I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
