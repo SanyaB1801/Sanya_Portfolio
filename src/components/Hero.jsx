@@ -37,7 +37,7 @@ const Hero = () => {
           >
             <img
               src="/images/profile-headshot.png"
-              alt="Profile photo"
+              alt="Sanya Behera"
               className="w-full h-full rounded-full object-cover"
               style={{ objectPosition: "center" }}
             />
