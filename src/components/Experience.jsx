@@ -1,23 +1,24 @@
 const Experience = () => {
   const experiences = [
     {
-      company: "Revv Growth",
-      role: "AI Engineer Intern",
-      duration: "Jul. 2025 – Present",
+      company: "Avaya",
+      role: "Automation and AI Implementation Intern",
+      duration: "Feb. 2026 – Present",
       location: "Remote",
       achievements: [
-        "Worked with AI automation tools like Make and n8n to enhance marketing and productivity.",
-        "Created 10+ automations to increase outreach, optimise SEO, and enhance overall working of the growth team.",
+        "Engineered partitioned data models and 28 custom SQL views in BigQuery across a 193M+ row enterprise HR dataset, using complex window functions to resolve multi-year data discrepancies.",
+        "Built a real-time FastAPI backend powered by Google ADK and Gemini API, with 15-minute scheduled refreshes for live executive analytics.",
+        "Automated 81% of recurring HR reporting using Google Apps Script and custom APIs, saving 35+ FTE hours monthly across 5 core enterprise reports.",
       ],
     },
     {
-      company: "QRACE",
-      role: "Quantum Intern",
-      duration: "Dec. 2024 – Jan. 2025",
-      location: "New Delhi, India",
+      company: "Revv Growth",
+      role: "AI Engineer Intern",
+      duration: "Jul. 2025 – Sep. 2025",
+      location: "Remote",
       achievements: [
-        "Built and tested 10+ quantum circuits and ran 5+ quantum algorithms on simulators like QPS and Qiskit, strengthening knowledge of quantum concepts",
-        "Generated random numbers using hardware-based QRNGs and verified randomness with the NIST STS on 5+ RNG datasets",
+        "Designed and deployed 10+ automated AI workflows using Make, n8n, Gemini API, and custom webhooks for Sales, Marketing, SEO, PPC, and Content teams.",
+        "Reduced business proposal generation time from 10+ hours to 10 minutes, boosting operational throughput by 85% while maintaining 98% accuracy.",
       ],
     },
     {
@@ -26,8 +27,7 @@ const Experience = () => {
       duration: "Jul. 2024 – Aug. 2024",
       location: "Guwahati, India",
       achievements: [
-        "Worked under the guidance of a talented team of educators to enhance knowledge of secure coding, system security, and cybersecurity protocols",
-        "Created, deployed and refined a Streamlit-based Phishing Email Detector using machine learning and NLP, achieving 95%+ detection accuracy on a dataset of 10,000+ emails",
+        "Developed and deployed a Streamlit-based Phishing Email Detector using machine learning and NLP, achieving 95%+ accuracy on 10,000+ emails.",
       ],
     },
   ]

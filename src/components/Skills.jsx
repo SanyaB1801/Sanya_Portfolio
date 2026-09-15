@@ -23,6 +23,7 @@ const Skills = () => {
         "OpenCV",
         "Pillow (PIL)",
         "Regex",
+        "Google Gemini AI",
       ],
     },
     {
