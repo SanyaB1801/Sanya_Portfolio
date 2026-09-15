@@ -9,9 +9,9 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-              I'm a passionate AI/ML engineer currently pursuing my B.Tech in Artificial Intelligence and Machine
-              Learning. With hands-on experience in quantum computing, cybersecurity, full-stack development, and AI
-              automation tools, I love building innovative solutions that push the boundaries of technology.
+              I'm an AI/ML engineer pursuing my B.Tech in Artificial Intelligence and Machine Learning at Vivekananda
+              Institute of Professional Studies–Technical Campus. I build practical AI systems, data agents, and
+              automation workflows that turn complex operational challenges into measurable outcomes.
             </p>
             <p className="text-lg text-gray-300 mb-6 leading-relaxed">
               My journey spans from developing AI-powered applications to exploring quantum algorithms, creating secure

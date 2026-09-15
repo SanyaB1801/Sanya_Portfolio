@@ -6,15 +6,15 @@ const Research = () => {
   }
 
   const researchItems = [
-    // {
-    //   icon: "📚",
-    //   title: "Magnetocaloric Effect: Fundamentals, Materials and Applications",
-    //   presentedAt: "Presented at IC-AMSI 2024",
-    //   description:
-    //     "Presented a comprehensive review paper on the Magnetocaloric Effect with emphasis on refrigeration, power generation, and energy conversion applications. The research explores the fundamental principles, material properties, and practical implementations of magnetocaloric materials in various industrial applications.",
-    //   tags: ["Materials Science", "Energy Conversion", "Refrigeration Technology"],
-    //   paperUrl: "https://example.com/your-paper", // Replace with actual paper URL
-    // },
+    {
+      icon: "📚",
+      title: "Magnetocaloric Effect: Fundamentals, Materials and Applications",
+      presentedAt: "Presented at IC-AMSI 2024",
+      description:
+        "Presented research on the fundamentals, materials, refrigeration applications, and energy conversion potential of the Magnetocaloric Effect.",
+      tags: ["Materials Science", "Energy Conversion", "Refrigeration Technology"],
+      paperUrl: "#",
+    },
     {
       icon: "♿", // Icon for accessibility/wheelchair
       title:

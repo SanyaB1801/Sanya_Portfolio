@@ -3,6 +3,18 @@
 const Projects = () => {
   const projects = [
     {
+      title: "MeetBot: AI Meeting Agent",
+      date: "Oct. 2025",
+      tech: ["Python", "Flask", "React", "Google Gemini", "Groq Whisper", "Vexa.ai"],
+      description:
+        "Engineered an autonomous meeting agent using Vexa.ai to join live calls, transcribe conversations, and automate post-meeting workflows.",
+      achievements: [
+        "Reduced transcription latency by 60% with Groq Whisper and cut administrative documentation time by 90% with Gemini-powered summaries and task extraction.",
+      ],
+      codeUrl: "https://github.com/SanyaB1801",
+      hasDemo: false,
+    },
+    {
       title: "SEO Intelligence Tool",
       date: "Jul. 2025",
       tech: ["Python", "Streamlit", "NLP", "KeyBERT", "spaCy", "Tesseract OCR", "Hugging Face"],
