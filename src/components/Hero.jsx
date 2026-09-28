@@ -35,9 +35,9 @@ const Hero = () => {
               padding: "4px",
             }}
           >
-            <img
+           <img
               src="/images/profile-headshot.png"
-              alt="Sanya Behera"
+              alt=""
               className="w-full h-full rounded-full object-cover"
               style={{ objectPosition: "center" }}
             />
