@@ -16,13 +16,23 @@ const Research = () => {
       paperUrl: "#",
     },
     {
-      icon: "♿", // Icon for accessibility/wheelchair
+      icon: "♿",
       title:
         "Implementing Gesture Controlled Wheelchair Powered by Solar Energy for Differently Abled and People with Amputee",
       presentedAt: "International Conference on Electronics, AI, and Computing (EAIC 2025)",
       description:
         "This paper gave us the chance to explore how gesture recognition and solar energy can be combined to create more accessible and sustainable mobility solutions. The research focuses on developing an innovative wheelchair system that enhances independence for differently-abled individuals and amputees through intuitive gesture controls and eco-friendly solar power integration.",
       tags: ["Gesture Recognition", "Solar Energy", "Assistive Technology", "Mobility Solutions"],
+      paperUrl: "https://ieeexplore.ieee.org/document/11101393", // Placeholder for the new paper URL
+    },
+    {
+      icon: "⚡",
+      title:
+        "Tamper-Proof Conflict Detection and Resolution Device",
+      presentedAt: "Indian Patent Office Journal No. 34/2026 | Application No: 202611083095 (Publication Date: 21/08/2026)",
+      description:
+        "Co-invented an edge AI hardware-software system using multi-modal sensor fusion (IR thermal sensing, facial emotion recognition, context audio isolation) and a cross-verification engine for automated conflict classification and ticket logging.",
+      tags: ["Edge AI", "Multi-Modal Sensor Fusion", "Computer Vision"],
       paperUrl: "https://ieeexplore.ieee.org/document/11101393", // Placeholder for the new paper URL
     },
   ]
