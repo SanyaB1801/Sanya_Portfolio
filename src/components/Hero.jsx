@@ -62,10 +62,7 @@ const Hero = () => {
           </p>
 
           <p className="text-lg text-[#4b5563] max-w-2xl mx-auto mb-8 leading-relaxed">
-            AI Engineer with expertise in building agentic backends, enterprise RAG architectures, and scalable data pipelines.
-            Proficient in Python, FastAPI, Gemini API, LangChain/LangGraph, and BigQuery SQL data modeling, with
-            hands-on experience deploying production APIs and automating complex cross-functional workflows. Co-inventor of
-            a published AI patent.
+            AI Engineer specializing in Agentic Backends, RAG Architectures, and Enterprise Data Pipelines
           </p>
         </div>
 
