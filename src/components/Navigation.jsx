@@ -14,7 +14,7 @@ const Navigation = () => {
     { name: "Projects", href: "#projects" },
     { name: "Skills", href: "#skills" },
     { name: "Certifications", href: "#certifications" },
-    { name: "Research & Publications", href: "#research" },
+    { name: "Research", href: "#research" },
     { name: "Contact", href: "#contact" },
   ]
 
@@ -73,7 +73,7 @@ const Navigation = () => {
         {isMobile && (
           <div
             className={`transition-all duration-300 ease-in-out ${
-              isOpen ? "max-h-64 opacity-100" : "max-h-0 opacity-0"
+              isOpen ? "max-h-80 opacity-100" : "max-h-0 opacity-0"
             } overflow-hidden`}
           >
             <div className="py-4 space-y-2">
