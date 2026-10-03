@@ -1,45 +1,33 @@
 const Skills = () => {
   const skillCategories = [
     {
-      title: "Languages & Frameworks",
+      title: "Languages & Backends",
       icon: "💻",
-      skills: ["Python", "Java", "C", "Dart", "SQL", "HTML", "CSS", "JavaScript", "React"],
+      skills: ["Python", "SQL", "FastAPI", "Java", "C", "JavaScript", "React", "HTML/CSS"],
     },
     {
-      title: "AI/ML Libraries",
+      title: "GenAI & Agentic Frameworks",
       icon: "🧠",
       skills: [
-        "TensorFlow",
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "Gemini API",
+        "RAG",
+        "Google ADK",
         "PyTorch",
-        "Scikit-learn",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Seaborn",
-        "NLTK",
-        "SpaCy",
-        "FinBERT",
-        "Transformers",
-        "OpenCV",
-        "Pillow (PIL)",
-        "Regex",
-        "Google Gemini AI",
+        "Hugging Face"
       ],
     },
     {
-      title: "Quantum & Security",
-      icon: "⚛️",
-      skills: ["Qiskit", "QPS", "QRNG", "Cybersecurity Protocols"],
+      title: "Data Engineering & ML",
+      icon: "📊",
+      skills: ["BigQuery", "Supabase", "Firebase", "Scikit-learn", "Pandas", "NumPy", "spaCy", "NLTK"],
     },
     {
-      title: "Tools & Platforms",
-      icon: "🛠️",
-      skills: ["Google Gemini AI", "Figma", "Tkinter", "Streamlit", "Git", "FastAPI"],
-    },
-    {
-      title: "Automations and Agents",
-      icon: "🤖",
-      skills: ["Make", "n8n", "Mindpal", "Hugging Face Spaces", "Lang Graph"],
+      title: "Workflow Automation",
+      icon: "⚙️",
+      skills: ["n8n", "Make", "Power Automate", "Zapier", "Google Apps Script (GAS)"],
     },
   ]
 
