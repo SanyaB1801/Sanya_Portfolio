@@ -8,7 +8,6 @@
     "start": "react-scripts start",
     "test": "react-scripts test"
   },
-  "homepage": "https://SanyaB1801.github.io/Sanya_Portfolio",
   "browserslist": {
     "production": [
       ">0.2%",
