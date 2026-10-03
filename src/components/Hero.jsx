@@ -58,13 +58,14 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-[#374151] mb-4 font-semibold">
-            AI/ML Engineer & Quantum Computing Enthusiast
+            AI Engineer
           </p>
 
           <p className="text-lg text-[#4b5563] max-w-2xl mx-auto mb-8 leading-relaxed">
-            B.Tech in Artificial Intelligence and Machine Learning | Building
-            innovative solutions at the intersection of AI, quantum computing,
-            and cybersecurity.
+            AI Engineer with expertise in building agentic backends, enterprise RAG architectures, and scalable data pipelines.
+            Proficient in Python, FastAPI, Gemini API, LangChain/LangGraph, and BigQuery SQL data modeling, with
+            hands-on experience deploying production APIs and automating complex cross-functional workflows. Co-inventor of
+            a published AI patent.
           </p>
         </div>
 
@@ -117,7 +118,7 @@ const Hero = () => {
           <button
             onClick={() =>
               openLink(
-                "https://drive.google.com/file/d/1O3npYy5-8G6WGX2Hp_Ne0ehI61O6ISgl/view?usp=sharing"
+                "https://drive.google.com/file/d/1uxaLeZ9lsACYeYVwh1u9iM9ECNNofTjk/view?usp=sharing"
               )
             }
             className="border-2 border-[#7cd3d3] text-[#374151] px-6 py-3 rounded-lg font-semibold transition-all hover:bg-[#7cd3d3] hover:text-white"
