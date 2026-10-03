@@ -33,7 +33,6 @@ const Research = () => {
       description:
         "Co-invented an edge AI hardware-software system using multi-modal sensor fusion (IR thermal sensing, facial emotion recognition, context audio isolation) and a cross-verification engine for automated conflict classification and ticket logging.",
       tags: ["Edge AI", "Multi-Modal Sensor Fusion", "Computer Vision"],
-      paperUrl: "https://ieeexplore.ieee.org/document/11101393", // Placeholder for the new paper URL
     },
   ]
 
