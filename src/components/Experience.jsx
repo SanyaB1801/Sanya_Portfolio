@@ -7,7 +7,7 @@ const Experience = () => {
       location: "Remote",
       achievements: [
         "Engineered partitioned data models and 28 custom SQL views in BigQuery across a 193M+ row enterprise HR dataset, using complex window functions to resolve multi-year data discrepancies.",
-        "Built a real-time FastAPI backend powered by Google ADK and Gemini API, with 15-minute scheduled refreshes for live executive analytics.",
+        "Engineered two enterprise AI agents using Google ADK, Gemini API, and FastAPI: an SOP-based RAG agent for operations query resolution and a live HR analytics agent for executive decision-making.",
         "Automated 81% of recurring HR reporting using Google Apps Script and custom APIs, saving 35+ FTE hours monthly across 5 core enterprise reports.",
       ],
     },
