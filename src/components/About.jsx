@@ -9,9 +9,10 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-              I'm an AI/ML engineer pursuing my B.Tech in Artificial Intelligence and Machine Learning at Vivekananda
-              Institute of Professional Studies–Technical Campus. I build practical AI systems, data agents, and
-              automation workflows that turn complex operational challenges into measurable outcomes.
+            I am an AI Engineer with expertise in building agentic backends, enterprise RAG architectures, and scalable data pipelines.
+            Proficient in Python, FastAPI, Gemini API, LangChain/LangGraph, and BigQuery SQL data modeling, with
+            hands-on experience deploying production APIs and automating complex cross-functional workflows. Co-inventor of
+            a published AI patent.
             </p>
             <p className="text-lg text-gray-300 mb-6 leading-relaxed">
               My journey spans from developing AI-powered applications to exploring quantum algorithms, creating secure
@@ -27,7 +28,7 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold text-white">Education</h3>
                   <p className="text-gray-300">B.Tech in AI & ML</p>
-                  <p className="text-sm text-gray-400">VIPS Technical Campus</p>
+                  <p className="text-sm text-gray-400">GGSIPU</p>
                 </div>
               </div>
 
